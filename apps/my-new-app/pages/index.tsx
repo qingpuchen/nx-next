@@ -3,7 +3,7 @@ import { MyNewLib } from '@happynrwl/ui-components';
 export function Index() {
   return (
     <MyNewLib>
-      <p>The main content</p>
+      <p>The main content 1111haha</p>
     </MyNewLib>
   );
 }
